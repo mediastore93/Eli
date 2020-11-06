@@ -1,4 +1,3 @@
-
 # CHECKSUM GRID DECODER
 #   This program accepts a 24-digit number,
 #   reads the first 16 digits as if they were stored in four rows of 4 digits
